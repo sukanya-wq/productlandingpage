@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Outfit", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+@utility elegant-dark-radial {
+  background: radial-gradient(circle at 50% -10%, #1e1b4b 0%, #0a0a0b 80%);
+}
+
+@utility elegant-glow {
+  box-shadow: 0 0 40px rgba(99, 102, 241, 0.15);
+}
+

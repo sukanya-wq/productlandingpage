@@ -1,0 +1,6 @@
+{
+  "name": "AI Products Landing Page",
+  "description": "A premium, highly interactive showcase and playground landing page for AI products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
